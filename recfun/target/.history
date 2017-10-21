@@ -1,0 +1,4 @@
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml
+Main.scala
+Main.pascal
+all {file:/home/manuel/Scrivania/workspace/scala/FunctionalProgrammingCourse/recfun/}root/products {file:/home/manuel/Scrivania/workspace/scala/FunctionalProgrammingCourse/recfun/}root/test:products
