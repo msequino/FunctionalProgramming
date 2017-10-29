@@ -1,0 +1,20 @@
+[0m[[0minfo[0m] [0m[32mTweetSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter: on empty set[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter: a on set5[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter: 20 on set5[0m[0m
+[0m[[0minfo[0m] [0m[32m- union: set4c and set4d[0m[0m
+[0m[[0minfo[0m] [0m[32m- union: with empty set (1)[0m[0m
+[0m[[0minfo[0m] [0m[32m- union: with empty set (2)[0m[0m
+[0m[[0minfo[0m] [0m[31mException encountered when attempting to run a suite with class name: objsets.TweetSetSuite *** ABORTED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.StackOverflowError:[0m[0m
+[0m[[0minfo[0m] [0m[31m  at java.nio.charset.CharsetEncoder.encode(CharsetEncoder.java:579)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at sun.nio.cs.StreamEncoder.implWrite(StreamEncoder.java:271)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at sun.nio.cs.StreamEncoder.write(StreamEncoder.java:125)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at java.io.OutputStreamWriter.write(OutputStreamWriter.java:207)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at java.io.BufferedWriter.flushBuffer(BufferedWriter.java:129)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at java.io.PrintStream.write(PrintStream.java:526)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at java.io.PrintStream.print(PrintStream.java:669)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at java.io.PrintStream.println(PrintStream.java:823)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Console$.println(Console.scala:148)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.println(Predef.scala:310)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
