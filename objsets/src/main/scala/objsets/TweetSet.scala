@@ -153,6 +153,7 @@ class NonEmpty(elem: Tweet, left: TweetSet, right: TweetSet) extends TweetSet {
   }
 
   def descendingByRetweet: TweetList = new Cons(mostRetweeted, remove(mostRetweeted).descendingByRetweet)
+
   /**
    * The following methods are already implemented
    */
@@ -206,14 +207,14 @@ object GoogleVsApple {
   val google = List("android", "Android", "galaxy", "Galaxy", "nexus", "Nexus")
   val apple = List("ios", "iOS", "iphone", "iPhone", "ipad", "iPad")
 
-  lazy val googleTweets: TweetSet = ???
-  lazy val appleTweets: TweetSet = ???
-  
+  lazy val googleTweets: TweetSet = TweetReader.allTweets.filter(p => p.text.contains(google))
+  lazy val appleTweets: TweetSet = TweetReader.allTweets.filter(p => p.text.contains(apple))
+
   /**
    * A list of all tweets mentioning a keyword from either apple or google,
    * sorted by the number of retweets.
    */
-     lazy val trending: TweetList = ???
+     lazy val trending: TweetList = googleTweets.union(appleTweets).descendingByRetweet
   }
 
 object Main extends App {
