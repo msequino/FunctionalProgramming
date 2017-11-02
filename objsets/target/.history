@@ -1,5 +1,6 @@
-;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml
 all {file:/home/manuel/Scrivania/workspace/scala/FunctionalProgrammingCourse/objsets/}root/products {file:/home/manuel/Scrivania/workspace/scala/FunctionalProgrammingCourse/objsets/}root/test:products
 submit mansequino@gmail.com 9N082VR5g8qQ3HwW
-exir
+exit
+all {file:/home/manuel/Scrivania/workspace/scala/FunctionalProgrammingCourse/objsets/}root/products {file:/home/manuel/Scrivania/workspace/scala/FunctionalProgrammingCourse/objsets/}root/test:products
+submit mansequino@gmail.com 9N082VR5g8qQ3HwW
 exit

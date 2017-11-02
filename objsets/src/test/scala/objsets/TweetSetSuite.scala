@@ -33,6 +33,12 @@ class TweetSetSuite extends FunSuite {
     }
   }
 
+  test("print union: un full set") {
+    new TestSets {
+      set4c union set4d foreach println
+    }
+  }
+
   test("filter: a on set5") {
     new TestSets {
       assert(size(set5.filter(tw => tw.user == "a")) === 1)
