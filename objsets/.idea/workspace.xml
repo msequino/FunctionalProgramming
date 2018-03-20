@@ -2,113 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8323eb3-0bf4-4d3c-ba36-b074d84d8eb3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2dd47a15616e4e1a5b39$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2dd47a15616e4e1a5b39$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2dd47a15616e4e1a5b39.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2dd47a15616e4e1a5b39.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3f4b8d3a105db6b70c42$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3f4b8d3a105db6b70c42$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3f4b8d3a105db6b70c42$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3f4b8d3a105db6b70c42.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3f4b8d3a105db6b70c42.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4dc796531ea8707ec5be$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4dc796531ea8707ec5be$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4dc796531ea8707ec5be.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$4dc796531ea8707ec5be.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$68755b0326bae2cf7cb1$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$68755b0326bae2cf7cb1$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$68755b0326bae2cf7cb1.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$68755b0326bae2cf7cb1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$757ab6ef6ded34e6d2c4$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$757ab6ef6ded34e6d2c4$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$757ab6ef6ded34e6d2c4.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$757ab6ef6ded34e6d2c4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$85f653a9e353224a2819$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$85f653a9e353224a2819$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$85f653a9e353224a2819.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$85f653a9e353224a2819.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$95c755e3e2ce3c7586f1$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$95c755e3e2ce3c7586f1$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$95c755e3e2ce3c7586f1.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$95c755e3e2ce3c7586f1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$af7b2c2fcd44ad1cc78e$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$af7b2c2fcd44ad1cc78e$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$af7b2c2fcd44ad1cc78e.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$af7b2c2fcd44ad1cc78e.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dee23dcce0b62a69e4e9$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dee23dcce0b62a69e4e9$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dee23dcce0b62a69e4e9.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dee23dcce0b62a69e4e9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e2a493c0d0e95bf03806$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e2a493c0d0e95bf03806$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e2a493c0d0e95bf03806.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e2a493c0d0e95bf03806.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$appleTweets$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$googleTweets$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$1$$anon$1$$anonfun$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$2$$anon$2$$anonfun$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$3$$anon$3$$anonfun$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$8$$anon$8$$anonfun$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructureTo/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/coursierClassifiersArtifacts/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=objsets.TweetSetSuite/test/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-reports/objsets.TweetSetSuite.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/Cons.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/Cons.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$1$$anon$1$$anonfun$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$2$$anon$2$$anonfun$11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$3$$anon$3$$anonfun$12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$4$$anon$4$$anonfun$13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$9$$anon$9$$anonfun$14.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/Empty.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/Empty.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/GoogleVsApple$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/GoogleVsApple$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/Main$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/Main$$anonfun$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/Main$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/Main$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/Main$delayedInit$body.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/Main$delayedInit$body.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/Nil$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/Nil$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/NonEmpty.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/NonEmpty.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/Tweet.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/Tweet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/TweetList$class.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/TweetList$class.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/TweetSet.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/objsets/TweetSet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/progfun1-objsets_2.11-0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/scala-2.11/progfun1-objsets_2.11-0.1-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$1$$anon$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$1$$anon$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$2$$anon$2.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$2$$anon$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$2.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$3$$anon$3.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$3$$anon$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$3.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$4$$anon$4.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$4$$anon$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$4.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$4.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$5$$anon$5.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$5$$anon$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$5.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$5.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$6$$anon$6.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$6$$anon$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$6.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$6.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$7$$anon$7.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$7$$anon$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$7.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$7.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$8$$anon$8.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$8$$anon$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$8.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$9$$anon$9.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$9$$anon$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$9.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$asSet$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$$anonfun$asSet$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$TestSets$class.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite$TestSets$class.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/objsets/TweetSetSuite.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/packageSubmission/$global/streams/inputs" afterPath="$PROJECT_DIR$/target/streams/compile/packageSubmission/$global/streams/inputs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/objsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/objsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/objsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/objsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-objsets-build-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterPath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" afterPath="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala" afterPath="$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" />
@@ -131,26 +55,12 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TweetSet.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="177" column="72" lean-forward="true" selection-start-line="177" selection-start-column="72" selection-end-line="177" selection-end-column="72" />
-              <folding>
-                <element signature="e#4871#5262#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>union</find>
       <find>incl</find>
+      <find>iPhone 5's brain dissected</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -164,9 +74,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/objsets/TweetReader.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala" />
       </list>
     </option>
   </component>
@@ -182,10 +92,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2065" />
-    <option name="y" value="-4" />
-    <option name="width" value="1845" />
-    <option name="height" value="1069" />
+    <option name="x" value="1919" />
+    <option name="y" value="-11" />
+    <option name="width" value="1922" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -205,7 +115,6 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,19 +169,11 @@
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="objsets" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="progfun1-objsets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="objsets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="objsets" type="462c0819:PsiDirectoryNode" />
-              <item name="TweetSetSuite" type="ce8f04f3:TypeDefinitionNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="ScalaTest.TweetSetSuite">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -436,9 +337,9 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.TweetSetSuite.print union: un full set" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.TweetSetSuite" />
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.TweetSetSuite" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.TweetSetSuite.print union: un full set" />
       </list>
     </recent_temporary>
   </component>
@@ -499,44 +400,45 @@
       <workItem from="1509612502956" duration="46000" />
       <workItem from="1509613111198" duration="5084000" />
       <workItem from="1509629252228" duration="1009000" />
-      <workItem from="1509630430305" duration="481000" />
+      <workItem from="1509630430305" duration="3977000" />
+      <workItem from="1509698132667" duration="542000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TweetSetSuite_print_union__un_full_set - 2017.11.02 at 10h 21m 23s.xml">
-      <configuration name="TweetSetSuite.print union: un full set" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="TweetSetSuite - 2017.11.02 at 16h 06m 24s.xml">
+      <configuration name="TweetSetSuite" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TweetSetSuite_print_union__un_full_set - 2017.11.02 at 10h 22m 01s.xml">
-      <configuration name="TweetSetSuite.print union: un full set" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="TweetSetSuite - 2017.11.02 at 16h 07m 19s.xml">
+      <configuration name="TweetSetSuite" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TweetSetSuite_print_union__un_full_set - 2017.11.02 at 10h 28m 35s.xml">
-      <configuration name="TweetSetSuite.print union: un full set" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="TweetSetSuite - 2017.11.02 at 16h 07m 41s.xml">
+      <configuration name="TweetSetSuite" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TweetSetSuite_print_union__un_full_set - 2017.11.02 at 10h 30m 55s.xml">
-      <configuration name="TweetSetSuite.print union: un full set" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="TweetSetSuite - 2017.11.02 at 16h 09m 25s.xml">
+      <configuration name="TweetSetSuite" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TweetSetSuite_print_union__un_full_set - 2017.11.02 at 10h 44m 20s.xml">
-      <configuration name="TweetSetSuite.print union: un full set" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="TweetSetSuite - 2017.11.02 at 16h 11m 36s.xml">
+      <configuration name="TweetSetSuite" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TweetSetSuite_print_union__un_full_set - 2017.11.02 at 14h 31m 02s.xml">
-      <configuration name="TweetSetSuite.print union: un full set" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="TweetSetSuite - 2017.11.02 at 16h 14m 24s.xml">
+      <configuration name="TweetSetSuite" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TweetSetSuite_print_union__un_full_set - 2017.11.02 at 14h 33m 29s.xml">
-      <configuration name="TweetSetSuite.print union: un full set" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="TweetSetSuite - 2017.11.02 at 17h 05m 02s.xml">
+      <configuration name="TweetSetSuite" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TweetSetSuite_print_union__un_full_set - 2017.11.02 at 14h 41m 59s.xml">
-      <configuration name="TweetSetSuite.print union: un full set" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="TweetSetSuite - 2017.11.02 at 17h 06m 17s.xml">
+      <configuration name="TweetSetSuite" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TweetSetSuite_print_union__un_full_set - 2017.11.02 at 14h 42m 58s.xml">
-      <configuration name="TweetSetSuite.print union: un full set" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="TweetSetSuite - 2017.11.02 at 17h 06m 40s.xml">
+      <configuration name="TweetSetSuite" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TweetSetSuite_print_union__un_full_set - 2017.11.02 at 14h 48m 02s.xml">
-      <configuration name="TweetSetSuite.print union: un full set" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="TweetSetSuite - 2017.11.02 at 17h 07m 19s.xml">
+      <configuration name="TweetSetSuite" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41339000" />
+    <option name="totallyTimeSpent" value="45377000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -548,8 +450,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-4" width="1920" height="1084" extended-state="6" />
-    <editor active="true" />
+    <frame x="1919" y="-11" width="1922" height="1092" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842106" sideWeight="0.49786553" order="6" side_tool="false" content_ui="tabs" />
@@ -558,12 +459,12 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33684212" sideWeight="0.5114079" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30994764" sideWeight="0.48345783" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30994764" sideWeight="0.48345783" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32670158" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842106" sideWeight="0.49786553" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29082176" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33508402" sideWeight="0.4885921" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2828877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33507854" sideWeight="0.4885921" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -627,16 +528,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4871#5262#0" expanded="false" />
+            <element signature="e#4869#5260#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -645,7 +538,24 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4871#5262#0" expanded="false" />
+            <element signature="e#4869#5260#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#4869#5260#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -654,7 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -663,7 +572,7 @@
         <state relative-caret-position="2816">
           <caret line="176" column="35" lean-forward="false" selection-start-line="176" selection-start-column="35" selection-end-line="176" selection-end-column="35" />
           <folding>
-            <element signature="e#4871#5262#0" expanded="false" />
+            <element signature="e#4869#5260#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -672,6 +581,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1184">
           <caret line="74" column="51" lean-forward="false" selection-start-line="74" selection-start-column="51" selection-end-line="74" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -687,7 +597,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4871#5262#0" expanded="false" />
+            <element signature="e#4869#5260#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -696,6 +606,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1184">
           <caret line="74" column="51" lean-forward="false" selection-start-line="74" selection-start-column="51" selection-end-line="74" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +615,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4871#5262#0" expanded="false" />
+            <element signature="e#4869#5260#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -713,6 +624,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1184">
           <caret line="74" column="51" lean-forward="false" selection-start-line="74" selection-start-column="51" selection-end-line="74" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +633,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4871#5262#0" expanded="false" />
+            <element signature="e#4869#5260#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -730,6 +642,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1184">
           <caret line="74" column="51" lean-forward="true" selection-start-line="74" selection-start-column="51" selection-end-line="74" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -738,7 +651,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4871#5262#0" expanded="false" />
+            <element signature="e#4869#5260#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -748,7 +661,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4871#5262#0" expanded="false" />
+            <element signature="e#4869#5260#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -757,7 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
           <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,6 +677,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
           <caret line="76" column="15" lean-forward="false" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +686,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4871#5262#0" expanded="false" />
+            <element signature="e#4869#5260#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -782,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -790,6 +702,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
           <caret line="76" column="15" lean-forward="false" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +711,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4871#5262#0" expanded="false" />
+            <element signature="e#4869#5260#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -807,7 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
           <caret line="68" column="53" lean-forward="false" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -816,7 +728,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4871#5262#0" expanded="false" />
+            <element signature="e#4869#5260#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -825,7 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
           <caret line="35" column="2" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -834,7 +745,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4871#5262#0" expanded="false" />
+            <element signature="e#4869#5260#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -844,7 +755,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4871#5262#0" expanded="false" />
+            <element signature="e#4869#5260#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -856,35 +767,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetData.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetReader.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetData.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="199">
+          <caret line="71" column="56" lean-forward="false" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="56" />
+          <folding>
+            <element signature="e#13900#29954#0" expanded="false" />
+            <element signature="e#29972#45444#0" expanded="false" />
+            <element signature="e#45465#59745#0" expanded="false" />
+            <element signature="e#59759#73974#0" expanded="false" />
+            <element signature="e#73993#90397#0" expanded="false" />
+            <element signature="e#90415#104074#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="177" column="72" lean-forward="true" selection-start-line="177" selection-start-column="72" selection-end-line="177" selection-end-column="72" />
+        <state relative-caret-position="3408">
+          <caret line="227" column="84" lean-forward="false" selection-start-line="227" selection-start-column="33" selection-end-line="227" selection-end-column="84" />
           <folding>
-            <element signature="e#4871#5262#0" expanded="false" />
+            <element signature="e#4869#5260#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
         </state>
       </provider>
     </entry>

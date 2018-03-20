@@ -1,8 +1,7 @@
 package objsets
 
+import objsets.GoogleVsApple.appleTweets
 import org.scalatest.FunSuite
-
-
 import org.junit.runner.RunWith
 import org.scalatest.junit.JUnitRunner
 
@@ -30,12 +29,6 @@ class TweetSetSuite extends FunSuite {
   test("filter: on empty set") {
     new TestSets {
       assert(size(set1.filter(tw => tw.user == "a")) === 0)
-    }
-  }
-
-  test("print union: un full set") {
-    new TestSets {
-      set4c union set4d foreach println
     }
   }
 
@@ -80,6 +73,26 @@ class TweetSetSuite extends FunSuite {
       val trends = set5.descendingByRetweet
       assert(!trends.isEmpty)
       assert(trends.head.user == "a" || trends.head.user == "b")
+    }
+  }
+
+  test("filter and trending: tweets with 321 and 205 retweets") {
+    new TestSets {
+      val gTrends = GoogleVsApple.googleTweets.filter(t => t.retweets == 321 || t.retweets == 205)
+      val aTrends = GoogleVsApple.appleTweets.filter(t => t.retweets == 321 || t.retweets == 205)
+
+      val trends = gTrends.union(aTrends).descendingByRetweet
+      trends foreach println
+      assert(size(gTrends union aTrends) == 2)
+    }
+  }
+
+  test("filter and union: tweets with 321 and 205 retweets") {
+    new TestSets {
+      val gTrends = GoogleVsApple.googleTweets.filter(t => t.retweets == 321 || t.retweets == 205)
+      val aTrends = GoogleVsApple.appleTweets.filter(t => t.retweets == 321 || t.retweets == 205)
+
+      assert(size(gTrends union aTrends) == 1)
     }
   }
   }

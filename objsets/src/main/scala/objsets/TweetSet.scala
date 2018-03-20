@@ -115,7 +115,7 @@ abstract class TweetSet {
 class Empty extends TweetSet {
   def filterAcc(p: Tweet => Boolean, acc: TweetSet): TweetSet = acc
 
-  def unionAcc(that: TweetSet) : TweetSet = that
+  def unionAcc(acc: TweetSet) : TweetSet = acc
   def mostRetweeted: Tweet = throw new NoSuchElementException
   def empty : Boolean = true
   def descendingByRetweet: TweetList = Nil
