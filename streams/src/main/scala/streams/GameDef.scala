@@ -1,7 +1,5 @@
 package streams
 
-import common._
-
 /**
  * This trait represents the layout and building blocks of the game
  */
@@ -34,14 +32,6 @@ trait GameDef {
 
     /** The position obtained by changing the `col` coordinate by `d` */
     def deltaCol(d: Int): Pos = copy(col = col + d)
-
-    def isUp(that: Pos) = this.col == that.col && this.row == that.row
-
-    override def equals(o: Any) = o match {
-      case that: Pos => that.col == this.col && that.row == this.row
-      case _ => false
-    }
-    override def hashCode = this.hashCode
   }
 
   /**
@@ -50,13 +40,13 @@ trait GameDef {
    * This value is left abstract, it will be defined in concrete
    * instances of the game.
    */
-  val startPos: Pos
+  def startPos: Pos
 
   /**
    * The target position where the block has to go.
    * This value is left abstract.
    */
-  val goal: Pos
+  def goal: Pos
 
   /**
    * The terrain is represented as a function from positions to
@@ -72,7 +62,7 @@ trait GameDef {
   /**
    * The terrain of this game. This value is left abstract.
    */
-  val terrain: Terrain
+  def terrain: Terrain
 
 
   /**
@@ -146,22 +136,16 @@ trait GameDef {
      * Returns the list of positions reachable from the current block
      * which are inside the terrain.
      */
-    def legalNeighbors: List[(Block, Move)] = neighbors.filter { p => p._1.isLegal }
+    def legalNeighbors: List[(Block, Move)] = neighbors.filter(_._1.isLegal)
 
     /**
      * Returns `true` if the block is standing.
      */
-    def isStanding: Boolean = b1.isUp(b2)
+    def isStanding: Boolean = b1.col == b2.col && b1.row == b2.row
 
     /**
      * Returns `true` if the block is entirely inside the terrain.
      */
     def isLegal: Boolean = terrain(b1) && terrain(b2)
-
-    override def equals(o: Any) = o match {
-      case that: Block => that.b1.equals(this.b1) && that.b2.equals(this.b2)
-      case _ => false
-    }
-    override def hashCode = this.hashCode
   }
 }

@@ -1,15 +1,11 @@
 package streams
 
-import org.scalatest.FunSuite
-
-import org.junit.runner.RunWith
-import org.scalatest.junit.JUnitRunner
+import org.junit._
+import org.junit.Assert.assertEquals
 
 import Bloxorz._
 
-@RunWith(classOf[JUnitRunner])
-class BloxorzSuite extends FunSuite {
-
+class BloxorzSuite {
   trait SolutionChecker extends GameDef with Solver with StringParserTerrain {
     /**
      * This method applies a list of moves `ls` to the block at position
@@ -43,7 +39,7 @@ class BloxorzSuite extends FunSuite {
   }
 
 
-	test("terrain function level 1") {
+  @Test def `terrain function level 1 (10pts)`: Unit =
     new Level1 {
       assert(terrain(Pos(0,0)), "0,0")
       assert(terrain(Pos(1,1)), "1,1") // start
@@ -56,116 +52,127 @@ class BloxorzSuite extends FunSuite {
       assert(!terrain(Pos(-1,0)), "-1,0")
       assert(!terrain(Pos(0,-1)), "0,-1")
     }
-  }
 
-	test("findChar level 1") {
+  @Test def `find char level 1 (10pts)`: Unit =
+    new Level1 {
+      assertEquals(Pos(1, 1), startPos)
+    }
+
+
+  @Test def `optimal solution for level 1 (5pts)`: Unit =
+    new Level1 {
+      assertEquals(Block(goal, goal), solve(solution))
+    }
+
+
+  @Test def `optimal solution length for level 1 (5pts)`: Unit =
+    new Level1 {
+      assertEquals(optsolution.length, solution.length)
+    }
+
+
+  @Rule def individualTestTimeout = new org.junit.rules.Timeout(10 * 1000)
+
+  @Test def `findChar level 1`() : Unit = {
     new Level1 {
       assert(startPos == Pos(1,1))
     }
   }
 
-  test("findChar goal") {
+  @Test def `findChar goal` {
     new Level1 {
       assert(goal == Pos(4,7))
     }
   }
 
-
-  test("optimal solution for level 1") {
-    new Level1 {
-      assert(solve(solution) == Block(goal, goal))
-    }
-  }
-
-
-	test("optimal solution length for level 1") {
-    new Level1 {
-      assert(solution.length == optsolution.length)
-    }
-  }
-
-  test("test legaltity start block") {
+  @Test def `test legaltity start block` {
     new Level1 {
       assert(startBlock.isLegal)
     }
   }
 
-  test("test neighbors of start block") {
+  @Test def `test neighbors of start block` {
     new Level1 {
       assert(startBlock.neighbors.length == 4)
       assert(startBlock.legalNeighbors.length == 2)
     }
   }
 
-  test("test legaltity moves around borders") {
+  @Test def `test legaltity moves around borders` {
     new Level1 {
       val moved = startBlock.down
       assert(moved.legalNeighbors.length == 2)
     }
   }
 
-  test("test from start go to up") {
+  @Test def `test from start go to up` {
     new Level1 {
       val moved = startBlock.up
       assert(moved.legalNeighbors.length == 1)
     }
   }
 
-  test("test legality from the center of the terrain") {
+  @Test def `test legality from the center of the terrain` {
     new Level1 {
       val moved = startBlock.right.right.down
       assert(moved.legalNeighbors.length == 3)
     }
   }
 
-  test("test neighbors with history") {
+  @Test def `test neighbors with history` {
     new Level1 {
       val b = Block(Pos(1,1),Pos(1,1))
       val moves = List(Left,Up)
       val neighbors = neighborsWithHistory(b, moves).toList
 
-      val sol = Stream(
-        (Block(Pos(1,2),Pos(1,3)), List(Right,Left,Up)),
-        (Block(Pos(2,1),Pos(3,1)), List(Down,Left,Up))
+      val sol = LazyList(
+        (Block(Pos(2,1),Pos(3,1)), List(Down,Left,Up)),
+        (Block(Pos(1,2),Pos(1,3)), List(Right,Left,Up))
       ).toList
 
-      for {
-        (n, ni) <- neighbors.zipWithIndex
-        (s, si) <- sol.zipWithIndex
-      } yield {
-        if(ni == si){
-          assert(s._1.equals(n._1))
-        }
-      }
+      assert(neighbors.forall(n => sol.contains(n)))
 
     }
   }
 
-  test("test avoiding circles") {
+  @Test def `test avoiding circles` {
     new Level1 {
-      val neighbors = Set(
+      val neighbors = LazyList(
         (Block(Pos(1, 2), Pos(1, 3)), List(Right, Left, Up)),
         (Block(Pos(2, 1), Pos(3, 1)), List(Down, Left, Up))
-      ).toStream
+      )
 
       val explored = Set(
-        (Block(Pos(2, 1), Pos(3, 1)))
+        Block(Pos(1, 2), Pos(1, 3)), Block(Pos(1, 1), Pos(1, 1))
       )
 
       val newNeighborsOnlySol = newNeighborsOnly(neighbors, explored)
 
-      val sol = Set(
+      val sol = LazyList(
         (Block(Pos(2, 1), Pos(3, 1)), List(Down, Left, Up))
-      ).toStream
+      )
 
       for {
         (n, ni) <- newNeighborsOnlySol.zipWithIndex
-        (s, si) <- sol.zipWithIndex
+        (s, si) <- sol.zipWithIndex if si == ni
       } yield {
-        if(ni == si){
-          assert(s._1.equals(n._1))
-        }
+        println(s._1, n._1)
+        assert(s._1.equals(n._1))
       }
+    }
+  }
+
+  @Test def `optimal solution for level 1` {
+    new Level1 {
+      println("start")
+      assert(solve(solution) == Block(goal, goal))
+    }
+  }
+
+
+  @Test def `optimal solution length for level 1` {
+    new Level1 {
+      assert(solution.length == optsolution.length)
     }
   }
 }

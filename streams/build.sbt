@@ -1,14 +1,10 @@
-name := course.value + "-" + assignment.value
+course := "progfun2"
+assignment := "streams"
 
-scalaVersion := "2.11.12"
+scalaVersion := "2.13.0"
 
-scalacOptions ++= Seq("-deprecation")
+scalacOptions ++= Seq("-language:implicitConversions", "-deprecation")
+libraryDependencies += "com.novocode" % "junit-interface" % "0.11" % Test
+libraryDependencies += "org.scalacheck" %% "scalacheck" % "1.14.0"
 
-// grading libraries
-libraryDependencies += "junit" % "junit" % "4.10" % Test
-libraryDependencies += "org.scalacheck" %% "scalacheck" % "1.12.1"
-
-// include the common dir
-commonSourcePackages += "common"
-
-courseId := "PeZYFz-zEeWB_AoW1KYI4Q"
+testOptions in Test += Tests.Argument(TestFrameworks.JUnit, "-a", "-v", "-s")
